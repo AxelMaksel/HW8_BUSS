@@ -1,0 +1,97 @@
+25-01-2023 21:26:49 - menu_buss - INFO - menu - menu buss
+25-01-2023 21:27:07 - request - INFO - bus_add - INSERT INTO buss(id, model, year, number, places, coment) VALUES ('','asd','1231', 'ada','33','qwe');
+25-01-2023 21:33:04 - menu_buss - INFO - menu - menu buss
+25-01-2023 21:33:48 - menu_buss - INFO - menu - menu buss
+25-01-2023 21:37:30 - menu_buss - INFO - menu - menu buss
+25-01-2023 21:52:20 - menu_buss - INFO - menu - menu buss
+25-01-2023 22:16:23 - menu_buss - INFO - menu - menu buss
+25-01-2023 22:16:24 - request - INFO - bus_view - посмотерть все автобусы ,3 штук
+25-01-2023 22:17:02 - request - INFO - bus_edit - Update buss set model = ?, year = ?, number = ?, places = ?, coment = ?    where id = ?
+25-01-2023 22:18:46 - menu_buss - INFO - menu - menu buss
+25-01-2023 22:18:48 - request - INFO - bus_view - посмотерть все автобусы ,3 штук
+25-01-2023 22:19:10 - request - INFO - bus_view - посмотерть все автобусы ,3 штук
+25-01-2023 22:21:25 - request - INFO - bus_view - посмотерть все автобусы ,3 штук
+25-01-2023 22:21:25 - request - INFO - bus_view - посмотерть все автобусы ,3 штук
+25-01-2023 22:21:27 - request - INFO - bus_view - посмотерть все автобусы ,3 штук
+25-01-2023 22:22:03 - request - INFO - bus_view - посмотерть все автобусы ,3 штук
+25-01-2023 22:24:43 - request - INFO - bus_view - посмотерть все автобусы ,3 штук
+25-01-2023 22:24:50 - menu_buss - INFO - menu - menu buss
+25-01-2023 22:24:53 - request - INFO - bus_view - посмотерть все автобусы ,3 штук
+25-01-2023 22:31:10 - menu_buss - INFO - menu - menu buss
+25-01-2023 22:31:13 - request - INFO - bus_view - посмотерть все автобусы ,3 штук
+25-01-2023 22:31:57 - request - INFO - bus_edit - Update buss set model = ?, year = ?, number = ?, places = ?, coment = ?    where id = ?, POL, 2019, P123OP 124, 33, клёвый, 3
+25-01-2023 22:31:57 - request - INFO - bus_view - посмотерть все автобусы ,3 штук
+25-01-2023 22:41:35 - menu_buss - INFO - menu - menu buss
+25-01-2023 22:41:36 - request - INFO - bus_view - посмотерть все автобусы ,3 штук
+25-01-2023 22:42:10 - menu_buss - INFO - menu - menu buss
+25-01-2023 22:42:11 - request - INFO - bus_view - посмотерть все автобусы ,3 штук
+25-01-2023 22:42:24 - request - INFO - bus_view - посмотерть все автобусы ,3 штук
+25-01-2023 22:42:27 - request - INFO - bus_view - посмотерть все автобусы ,3 штук
+25-01-2023 22:42:39 - request - INFO - bus_view - посмотерть все автобусы ,3 штук
+25-01-2023 22:42:42 - request - INFO - bus_view - посмотерть все автобусы ,3 штук
+25-01-2023 22:45:21 - request - INFO - bus_view - посмотерть все автобусы ,3 штук
+25-01-2023 22:45:30 - request - INFO - bus_view - посмотерть все автобусы ,3 штук
+25-01-2023 22:47:23 - menu_buss - INFO - menu - menu buss
+25-01-2023 22:47:31 - request - INFO - bus_del - Попытка удаления автобуса id=2, y
+25-01-2023 22:47:31 - request - INFO - bus_view - посмотерть все автобусы ,3 штук
+25-01-2023 22:48:46 - menu_buss - INFO - menu - menu buss
+25-01-2023 22:48:51 - request - INFO - bus_del - Попытка удаления автобуса id=2, y
+25-01-2023 22:48:51 - request - INFO - bus_del - DELETE FROM buss WHERE id=?, (<class 'str'>, 2)
+25-01-2023 22:49:55 - menu_buss - INFO - menu - menu buss
+25-01-2023 22:50:00 - request - INFO - bus_del - Попытка удаления автобуса id=2, y
+25-01-2023 22:50:00 - request - INFO - bus_del - DELETE FROM buss WHERE id=2
+25-01-2023 22:50:00 - request - INFO - bus_view - посмотерть все автобусы ,2 штук
+25-01-2023 23:02:10 - menu_piple - INFO - menu - menu piple
+25-01-2023 23:02:12 - request_piple - INFO - piple_view - view all piple ,0 pieces
+25-01-2023 23:05:28 - menu_piple - INFO - menu - menu piple
+25-01-2023 23:05:43 - request_piple - INFO - piple_add - INSERT INTO piple(family, year, number, prof, coment) VALUES ('Мосин','1979', '101','1','Клёвый');
+25-01-2023 23:05:47 - request_piple - INFO - piple_view - view all piple ,1 pieces
+25-01-2023 23:06:24 - menu_piple - INFO - menu - menu piple
+25-01-2023 23:06:26 - request_piple - INFO - piple_view - view all piple ,1 pieces
+25-01-2023 23:18:02 - menu_piple - INFO - menu - menu piple
+25-01-2023 23:18:17 - request_piple - INFO - piple_add - INSERT INTO piple(family, year, number, prof, coment) VALUES ('йцу','1231', '122','1','');
+25-01-2023 23:18:21 - request_piple - INFO - piple_view - view all piple ,2 pieces
+25-01-2023 23:18:33 - request_piple - INFO - piple_del - Попытка удаления работника id=2, н
+25-01-2023 23:18:33 - request_piple - INFO - piple_view - view all piple ,2 pieces
+25-01-2023 23:18:42 - request_piple - INFO - piple_del - Попытка удаления работника id=2, y
+25-01-2023 23:18:42 - request_piple - INFO - piple_del - DELETE FROM piple WHERE id=2
+25-01-2023 23:18:42 - request_piple - INFO - piple_view - view all piple ,1 pieces
+25-01-2023 23:19:51 - main - INFO - <module> - Start program
+25-01-2023 23:28:08 - main - INFO - <module> - Start program
+25-01-2023 23:29:45 - menu_prof - INFO - menu - menu prof
+25-01-2023 23:29:46 - request_piple - INFO - piple_view - view all piple ,1 pieces
+25-01-2023 23:30:36 - menu_prof - INFO - menu - menu prof
+25-01-2023 23:30:37 - request_prof - INFO - prof_view - view all prof ,0 pieces
+25-01-2023 23:30:50 - request_prof - INFO - prof_add - INSERT INTO prof (prof) VALUES ('Прогрмер';
+25-01-2023 23:31:11 - menu_prof - INFO - menu - menu prof
+25-01-2023 23:31:22 - request_prof - INFO - prof_add - INSERT INTO prof (prof) VALUES ('Кодер');
+25-01-2023 23:32:20 - menu_prof - INFO - menu - menu prof
+25-01-2023 23:32:30 - request_prof - INFO - prof_add - INSERT INTO prof (name) VALUES ('Coder');
+25-01-2023 23:32:31 - request_prof - INFO - prof_view - view all prof ,1 pieces
+25-01-2023 23:32:37 - request_prof - INFO - prof_add - INSERT INTO prof (name) VALUES ('Водитель');
+25-01-2023 23:32:56 - request_prof - INFO - prof_edit - UPDATE prof set name = Техник where id = 2
+25-01-2023 23:34:43 - menu_prof - INFO - menu - menu prof
+25-01-2023 23:34:45 - request_prof - INFO - prof_view - view all prof ,2 pieces
+25-01-2023 23:34:53 - request_prof - INFO - prof_edit - UPDATE prof set name = 'Кодер' where id = 1
+25-01-2023 23:34:53 - request_prof - INFO - prof_view - view all prof ,2 pieces
+25-01-2023 23:35:03 - request_prof - INFO - prof_add - INSERT INTO prof (name) VALUES ('Медик');
+25-01-2023 23:35:04 - request_prof - INFO - prof_view - view all prof ,3 pieces
+25-01-2023 23:35:17 - request_prof - INFO - prof_add - INSERT INTO prof (name) VALUES ('Директор');
+25-01-2023 23:35:23 - request_prof - INFO - prof_view - view all prof ,4 pieces
+25-01-2023 23:35:34 - request_prof - INFO - prof_del - Попытка удаления специальности id=4, y
+25-01-2023 23:35:34 - request_prof - INFO - prof_del - DELETE FROM prof WHERE id=4
+25-01-2023 23:35:34 - request_prof - INFO - prof_view - view all prof ,3 pieces
+25-01-2023 23:35:43 - menu_piple - INFO - menu - menu piple
+25-01-2023 23:35:45 - request_piple - INFO - piple_view - view all piple ,1 pieces
+25-01-2023 23:36:33 - request_piple - INFO - piple_add - INSERT INTO piple(family, year, number, prof, coment) VALUES ('Кутузов','1745', '103','2','Суровый');
+25-01-2023 23:36:35 - request_piple - INFO - piple_view - view all piple ,2 pieces
+25-01-2023 23:44:45 - menu_piple - INFO - menu - menu piple
+25-01-2023 23:44:47 - request_piple - INFO - piple_view - view all piple ,2 pieces
+25-01-2023 23:53:29 - menu_buss - INFO - menu - menu buss
+25-01-2023 23:53:32 - request_buss - INFO - bus_view - посмотерть все автобусы ,2 штук
+25-01-2023 23:59:15 - menu_buss - INFO - menu - menu buss
+25-01-2023 23:59:17 - request_buss - INFO - bus_view - посмотерть все автобусы ,2 штук
+25-01-2023 23:59:21 - request_buss - INFO - bus_view - посмотерть все автобусы ,2 штук
+26-01-2023 00:00:48 - menu_buss - INFO - menu - menu buss
+26-01-2023 00:00:52 - request_buss - ERROR - bus_edit - Нет автобуса номер 23
+26-01-2023 00:00:52 - request_buss - INFO - bus_view - посмотерть все автобусы ,2 штук

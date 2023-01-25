@@ -1,0 +1,11 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "Buss",
+            "database": "${workspaceFolder:Lesson8 HW}/base.db"
+        }
+    ]
+}
